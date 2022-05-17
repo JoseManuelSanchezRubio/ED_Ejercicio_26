@@ -26,5 +26,7 @@ namespace Ej26.models
         public double BaseSalary { get => baseSalary; set => baseSalary = value; }
         public string Dni { get => dni; set => dni = value; }
         public abstract string Information();
+
+        //añadido comentario de prueba
     }
 }
